@@ -3,6 +3,7 @@ Each folder contains a challenge/Vite app that is categorized from beginner to a
 
 # EASY — Counter App
 Goal: Learn useState and event handling.
+
 [Live Demo](https://counter-nine-delta-83.vercel.app/)
 
 Features:
@@ -11,6 +12,7 @@ Features:
 
 # MEDIUM - Movie Search App
 Goal: Use hooks, API calls, and React Router.
+
 [Live Demo](https://movies-five-tau.vercel.app/)
 
 Features:
@@ -20,6 +22,7 @@ Features:
 
 # HARD - To Do App
 Goal: Build a CRUD app with persistence.
+
 [Live Demo](https://to-do-topaz-ten.vercel.app/)
 
 Features:
